@@ -2139,7 +2139,6 @@ export const walletsData: WalletData[] = [
     social_recovery: false,
     onboard_documentation: "https://docs.coin98.com/",
     documentation: "https://docs.coin98.com/",
-    new_to_crypto: true,
   },
 ]
 
